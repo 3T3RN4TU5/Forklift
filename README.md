@@ -6,6 +6,8 @@ The first version of the VoltLift electric forklift website, with a rotating 3D 
 
 ![VoltLift hero beside an interactive 3D forklift](docs/screenshot.jpg)
 
+![Animated demo: scrolling through the VoltLift site](docs/demo.gif)
+
 ## Built with
 
 A single `index.html` with HTML, CSS, JavaScript and Three.js (from a CDN).
